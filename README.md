@@ -21,9 +21,9 @@
 
 ## 🧸 NLPer
 
-I'm learning in GZU for a cs master degree, researching about information extraction.
+I'm learning in GZU for a cs master degree, <br>researching about information extraction.
 <br>
-Sometimes, I will do some small projects and I hope these project can help some people.(ps. Even I'm a baby coder~)
+Sometimes, I will do some small projects and I hope these project can help some people.<br>(ps. Even I'm a baby coder~)
 
 
 
