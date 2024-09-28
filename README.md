@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines='Hi，I'm Jim. Welcome to my GitHub!'&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
+  <img src="https://readme-typing-svg.demolab.com/?lines='Hi👋 , Welcome to my GitHub!'&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
 </p>
 
 <p align="center">
