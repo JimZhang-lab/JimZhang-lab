@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi，I'm Jim. Welcome to my GitHub!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
+  <img src="https://readme-typing-svg.demolab.com/?lines='Hi，I'm Jim. Welcome to my GitHub!'&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 
 ## 🧸 NLPer
 
-I'm learning in GZU for a cs master degree, <br>researching about information extraction.
+:tophat:I'm learning in GZU for a cs master degree, researching about information extraction.
 <br>
-Sometimes, I will do some small projects and I hope these project can help some people.<br>(ps. Even I'm a baby coder~)
+vSometimes, I will do some small projects and I hope these project can help some people.<br>(ps. Even I'm a baby coder~:egg:)
 
 
 
