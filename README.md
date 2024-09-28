@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center"><a href="https://github.com/JimZhang-lab">✨ Jim 的 GitHub 首页</a></h1>
+  <h1 align="center"><a href="https://github.com/JimZhang-lab">✨ Jim's GitHub</a></h1>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=大家好，我是Jim;欢迎来到我的 GitHub!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi，I'm Jim. Welcome to my GitHub!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
 </p>
 
 <p align="center">
@@ -21,8 +21,11 @@
 
 ## 🧸 NLPer
 
-nlp 小垃圾。
-<br>偶尔做一些小项目。
+I'm learning in GZU for a cs master degree, researching about information extraction.
+<br>
+Sometimes, I will do some small projects and I hope these project can help some people.(ps. Even I'm a little brother~)
+
+
 
 <!--
 ### 💞 我的社交统计
