@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://github.com/zhang-bcxb">✨ Jim 的GitHub 首页</a></h1>
+  <h1 align="center"><a href="https://github.com/JimZhang-lab">✨ Jim 的 GitHub 首页</a></h1>
 </p>
 
 <p align="center">
@@ -7,21 +7,22 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Program&message=python&color=skyblue"/>
-  <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=blue"/>
+  <img src="https://img.shields.io/static/v1?label=Language&message=python&color=blue"/>
+  <img src="https://img.shields.io/static/v1?label=Language&message=java&color=orange"/>
+  <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=green"/>
   <img src="https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow"/>
 <!--   <a href="https://space.bilibili.com/337439992"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=pink"/></a> -->
-  <a href="https://mp.weixin.qq.com/s/NfkT7BvdkNDLCcbmyl0AMg
-"><img src="https://img.shields.io/static/v1?label=Blog&message=WeChat&color=green"/></a>
+<!--   <a href="https://mp.weixin.qq.com/s/NfkT7BvdkNDLCcbmyl0AMg
+"><img src="https://img.shields.io/static/v1?label=Blog&message=WeChat&color=green"/></a> -->
 </p>
 <br>
 
-<img align="right" src="https://moe-counter.glitch.me/get/@:zhang-bcxb?theme=rule34">
+<img align="right" src="https://moe-counter.glitch.me/get/@:JimZhang-lab?theme=rule34">
 
 ## 🧸 NLPer
 
-nlp 小垃圾。<br>偶尔做一些小项目。
-<br>
+nlp 小垃圾。
+<br>偶尔做一些小项目。
 
 <!--
 ### 💞 我的社交统计
