@@ -22,6 +22,7 @@
 nlp 小垃圾。<br>偶尔做一些小项目。
 <br>
 
+<!--
 ### 💞 我的社交统计
 
 [![GitHub统计](https://stats.justsong.cn/api/github?username=JimZhang-lab&theme=dark&lang=zh-CN)](https://github.com/JimZhang-lab)
@@ -34,7 +35,6 @@ nlp 小垃圾。<br>偶尔做一些小项目。
 ![](https://github-readme-activity-graph.vercel.app/graph?username=JimZhang-lab&theme=dracula&custom_title=Jim的心电图&radius=10)
 <br>
 
-<!--
 <details>
   <summary><strong style="color:#e96443;">👀[点击展开] 赞赏支持 </strong></summary>
   <img align="center" src="img/微信.jpg" alt="微信赞赏" width="30%">
