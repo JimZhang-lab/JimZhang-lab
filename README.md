@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋Hi guys, Welcome to my GitHub!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22B2F7&width=435&lines=%F0%9F%91%8BHi+guys%2C+Welcome+to+my+GitHub!" alt="动态介绍">
 </p>
 
 <p align="center">
