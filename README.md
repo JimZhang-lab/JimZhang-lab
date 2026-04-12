@@ -18,7 +18,7 @@
 </p>
 <br>
 
-<img align="right" src="https://moe-counter.glitch.me/get/@:JimZhang-lab?theme=rule34">
+<!-- <img align="right" src="https://moe-counter.glitch.me/get/@:JimZhang-lab?theme=rule34"> -->
 
 ## 🧸 NLPer
 
